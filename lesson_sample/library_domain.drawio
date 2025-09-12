@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.0">
+  <diagram name="ページ1" id="iST29Ja5fqgjSsZGIpZS">
+    <mxGraphModel dx="1605" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-1" value="乗り物" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-2" value="車" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="300" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-3" value="船" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="300" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-4" value="飛行機" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-5" value="" style="endArrow=block;html=1;rounded=0;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="OEU7Za6WFuwB9SrL9VOl-2" target="OEU7Za6WFuwB9SrL9VOl-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-355" y="260" as="sourcePoint" />
+            <mxPoint x="-305" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-6" value="" style="endArrow=block;html=1;rounded=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="OEU7Za6WFuwB9SrL9VOl-3" target="OEU7Za6WFuwB9SrL9VOl-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="310" as="sourcePoint" />
+            <mxPoint x="-230" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-7" value="" style="endArrow=block;html=1;rounded=0;endFill=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="OEU7Za6WFuwB9SrL9VOl-4" target="OEU7Za6WFuwB9SrL9VOl-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="310" as="sourcePoint" />
+            <mxPoint x="-200" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-8" value="車" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-9" value="エンジン" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-10" value="ボディ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="160" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-11" value="ハンドル" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-12" value="ライト" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-16" value="" style="endArrow=diamondThin;endFill=0;endSize=35;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="OEU7Za6WFuwB9SrL9VOl-9" target="OEU7Za6WFuwB9SrL9VOl-8" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-110" y="50" as="sourcePoint" />
+            <mxPoint y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-17" value="" style="endArrow=diamondThin;endFill=0;endSize=35;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="OEU7Za6WFuwB9SrL9VOl-10" target="OEU7Za6WFuwB9SrL9VOl-8" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="130" y="160" as="sourcePoint" />
+            <mxPoint x="185" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-18" value="" style="endArrow=diamondThin;endFill=0;endSize=35;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="OEU7Za6WFuwB9SrL9VOl-11" target="OEU7Za6WFuwB9SrL9VOl-10" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="80" y="290" as="sourcePoint" />
+            <mxPoint x="135" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-19" value="" style="endArrow=diamondThin;endFill=0;endSize=35;html=1;rounded=0;entryX=0.667;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="OEU7Za6WFuwB9SrL9VOl-12" target="OEU7Za6WFuwB9SrL9VOl-10" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="300" as="sourcePoint" />
+            <mxPoint x="245" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-21" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="180" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-23" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="540" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-28" value="利用者" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEU7Za6WFuwB9SrL9VOl-29" value="図書カード" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
