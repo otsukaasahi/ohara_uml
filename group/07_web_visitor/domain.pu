@@ -1,0 +1,26 @@
+@startuml web_visitorドメインモデル
+skinparam classAttributeIconSize 0
+hide circle
+
+entity WebVisitor {
+  *ユーザID : string
+  *名前 : string
+  *パスワード : string
+  学校名 : string
+  所属名 : string
+  メールアドレス : string
+  年齢 : int
+}
+
+entity 学校 {
+  *学校名 : string
+}
+
+entity 所属 {
+  *所属名 : string
+}
+
+WebVisitor -- 学校 : 所属
+WebVisitor -- 所属 : 所属
+
+@enduml

@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.2">
+  <diagram name="ページ1" id="V_LhNXWwExUAHjZNSQHr">
+    <mxGraphModel dx="1449" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry y="100" width="20" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WkHYgxxMJsWWE1bAWAV_-7">
+          <mxGeometry x="5" y="70" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-15" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="50" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};spacing=2;" vertex="1" parent="WkHYgxxMJsWWE1bAWAV_-15">
+          <mxGeometry x="20" y="95" width="10" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-16" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="50" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WkHYgxxMJsWWE1bAWAV_-16">
+          <mxGeometry x="20" y="260" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-17" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WkHYgxxMJsWWE1bAWAV_-17">
+          <mxGeometry x="15" y="140" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-20" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WkHYgxxMJsWWE1bAWAV_-20">
+          <mxGeometry x="15" y="120" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-21" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="50" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WkHYgxxMJsWWE1bAWAV_-21">
+          <mxGeometry x="20" y="210" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-22" value="新規登録画面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-23" value="新規登録" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-24" value="訪問者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-25" value="新規登録完了画面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-26" value="エラーメッセージ画面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-27" value="ユーザ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="WkHYgxxMJsWWE1bAWAV_-8" target="WkHYgxxMJsWWE1bAWAV_-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="190" as="sourcePoint" />
+            <mxPoint x="210" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150.00000000000006" y="200.50000000000006" as="sourcePoint" />
+            <mxPoint x="235.00000000000006" y="200.50000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="WkHYgxxMJsWWE1bAWAV_-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245.00000000000006" y="221" as="sourcePoint" />
+            <mxPoint x="310" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-37" value="ユーザ情報を入力する()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="160" width="146" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-38" value="送信()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="50" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-41" value="新規登録" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="193" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="WkHYgxxMJsWWE1bAWAV_-30" target="WkHYgxxMJsWWE1bAWAV_-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="279.73" as="sourcePoint" />
+            <mxPoint x="300" y="279.73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-46" value="表示()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="WkHYgxxMJsWWE1bAWAV_-30" target="WkHYgxxMJsWWE1bAWAV_-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="340" as="sourcePoint" />
+            <mxPoint x="300" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkHYgxxMJsWWE1bAWAV_-50" value="エラーの場合:表示()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="110" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
